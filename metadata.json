@@ -1,0 +1,5 @@
+{
+  "name": "Binance Testnet AI Trader",
+  "description": "A React-based trading bot simulator and interface for Binance Futures Testnet. Features real-time market data, paper trading execution, and Gemini AI-powered market analysis and code generation.",
+  "requestFramePermissions": []
+}
